@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohit Sarawgi</h1>
+<h3 align="center">Machine Learning Engineer | MLOps | Deep Learning | Gen AI Enthusiast</h3>
 
-<!--
-**mohitsarawgi/mohitsarawgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌟 **About Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Passionate about building **intelligent systems** that scale — from **classic ML** to **Gen AI** and **MLOps pipelines**.  
+🧠 I’m a continuous learner, currently diving deeper into scalable AI systems and cloud-native deployment.
+
+---
+
+🚀 **Tech Stack**
+
+- **Languages**: Python, C++, SQL  
+- **ML/DL**: scikit-learn, TensorFlow, PyTorch, Transformers, NLP  
+- **MLOps**: MLflow, DVC, Airflow, GitHub Actions  
+- **DevOps**: Docker, AWS (EC2, S3, Lambda), Grafana  
+- **Others**: Git, Postman, VS Code, Jupyter, Streamlit
+
+---
+
+🧠 **What I Know**
+📂 **Featured Projects**
+
+| Project | Description |
+|--------|-------------|
+| 🔍 [Abstractive Text Summarizer](https://github.com/your-repo) | Built from scratch using Seq2Seq + LSTM for NLP summarization |
+| 🎛️ [MLOps Pipeline](https://github.com/your-repo) | End-to-end ML lifecycle with DVC, MLflow, Airflow and GitHub Actions |
+| 📊 [AI SaaS Image Generator](https://github.com/your-repo) | GenAI platform with image generation, customization & OpenAI API |
+| 📈 [Leave Management System](https://github.com/your-repo) | Role-based leave tracking built with PHP + MySQL |
+| 🤖 [Transformer-Based Chatbot](https://github.com/your-repo) | Custom chatbot trained on domain-specific knowledge |
+| 📦 [Dockerized ML App](https://github.com/your-repo) | ML model with Docker + EC2 deployment + monitoring with Grafana |
+
+---
+
+📈 **Currently Exploring**
+- Scalable Data Pipelines for ML
+- Multi-cloud MLOps & deployment
+- Building full-stack AI products with GenAI
+
+---
+
+📬 **Let's Connect**
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mohitsarawgi07/)
+- 📫 Email: mohitsarawgi07@gmail.com
+
+---
+
+⭐️ **Fun Fact**: I’m a chess enthusiast ♟️ and a powerlifter 🏋️ — always game for strategy and strength!
