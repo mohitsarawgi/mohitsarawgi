@@ -25,12 +25,11 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔍 [Abstractive Text Summarizer](https://github.com/your-repo) | Built from scratch using Seq2Seq + LSTM for NLP summarization |
-| 🎛️ [MLOps Pipeline](https://github.com/your-repo) | End-to-end ML lifecycle with DVC, MLflow, Airflow and GitHub Actions |
-| 📊 [AI SaaS Image Generator](https://github.com/your-repo) | GenAI platform with image generation, customization & OpenAI API |
-| 📈 [Leave Management System](https://github.com/your-repo) | Role-based leave tracking built with PHP + MySQL |
-| 🤖 [Transformer-Based Chatbot](https://github.com/your-repo) | Custom chatbot trained on domain-specific knowledge |
-| 📦 [Dockerized ML App](https://github.com/your-repo) | ML model with Docker + EC2 deployment + monitoring with Grafana |
+| 🎛️ [MLOps Pipeline] | End-to-end ML lifecycle with DVC, MLflow, Airflow and GitHub Actions |
+| 📊 [AI SaaS Image Generator]( | GenAI platform with image generation, customization & OpenAI API |
+| 📈 [Leave Management System] | Role-based leave tracking built with PHP + MySQL |
+| 🤖 [Transformer-Based Chatbot]| Custom chatbot trained on domain-specific knowledge |
+| 📦 [Dockerized ML App]| ML model with Docker + EC2 deployment + monitoring with Grafana |
 
 ---
 
